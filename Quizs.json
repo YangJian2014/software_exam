@@ -5,9 +5,23 @@
     "Answers": [
       0
     ],
-    "Sex": true,
-    "Weapons": [
-      1001
+    "Options": [
+      {
+        "Id": 0,
+        "answer": "可用性"
+      },
+      {
+        "Id": 1,
+        "answer": "开放性"
+      },
+      {
+        "Id": 2,
+        "answer": "脆弱性"
+      },
+      {
+        "Id": 3,
+        "answer": "稳定性"
+      }
     ]
   },
   {
@@ -16,9 +30,10 @@
     "Answers": [
       1
     ],
-    "Sex": true,
-    "Weapons": [
-      1002
+    "Options": [
+      {
+        "Id": 0
+      }
     ]
   },
   {
@@ -27,11 +42,10 @@
     "Answers": [
       1
     ],
-    "Sex": false,
-    "Weapons": [
-      1003,
-      1004,
-      1005
+    "Options": [
+      {
+        "Id": 0
+      }
     ]
   }
 ]
